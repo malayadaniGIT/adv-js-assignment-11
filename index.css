@@ -1,0 +1,110 @@
+.container{
+    text-align: center;
+ }
+ form{
+     /* display: flex; */
+     gap: 20px;
+     justify-content: center;
+   
+     
+     
+ }
+ input{
+     padding: 10px;
+     border: 2px solid rgb(192, 47, 71);
+     outline: none;
+ }
+ .btn{
+     width: 150px;
+     height: 40px;
+     border: 1px solid salmon;
+     color:white;
+     background-color:rgb(101, 30, 42);
+    
+ }
+ .task{
+     display: flex;
+    gap: 5px;
+    align-items: center;
+    width: 955px;
+    height: 60px;
+    background-color: rgb(70, 29, 36);
+    padding: 10px;
+    margin-left: 272px;
+    margin-top: 20px;
+   
+    
+ 
+ }
+ .action{
+     display: flex;
+     align-items: center;
+     gap: 10px;
+    margin-left: 150px;
+     
+ 
+ }
+ .btn2,.btn3,.btn4{
+     padding: 20px;
+    
+     border-radius: 50%;
+     text-align: center;
+     background-color: white;
+     gap: 10px;
+     outline: none;
+     border: none;
+ }
+ .country2{
+     margin-left: 10px;
+     font-size: 20px;
+     color: gray;
+     background-color: transparent;
+     border: none;
+ 
+ }
+ .score1{
+     margin-left: 20px;
+     width: 30px;
+     color: gray;
+     background-color: transparent;
+     border: none;
+     font-size: 20px;
+    
+ }
+ .last1{
+     width: 80px;
+     background-color: transparent;
+     border: none;
+     font-size: 20px;
+     color: rgb(75, 25, 25);
+ }
+ 
+  .footer p{
+     margin-left: -898px;
+     margin-top: 75px;
+     font-size: 17px;
+     color: gray;
+    
+    
+ }
+ .fa-trash-can{
+     color: rgb(7, 2, 2);
+ 
+ }
+ .btn2:hover,.btn3:hover,.btn4:hover{
+     background-color: rgb(15, 232, 15);
+ 
+ }
+ .name{
+    
+     width: 80px;
+     background-color: transparent;
+     border: none;
+     font-size: 20px;
+     color: rgb(198, 95, 95);
+     font-weight: bold;
+    
+ 
+     
+ }
+ 
